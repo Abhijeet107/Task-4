@@ -188,17 +188,10 @@ This dashboard enables users to:
 
 **Abhijeet Kuanr**  
 📧 abhijeet@example.com  
-🔗 [LinkedIn](#) 
+🔗 [www.linkedin.com/in/abhijeet-kuanr-6a2672160](#) 
 
 ---
 
-## 📄 License
-
-This project is open-source and available under the [MIT License](LICENSE).
-
-](#) | [Portfolio](#)
-
----
 
 ## 📄 License
 
