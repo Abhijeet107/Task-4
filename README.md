@@ -80,7 +80,7 @@ This dashboard enables users to:
   - Customer Type
   - Payment Method
   - Sales Rep
-
+   --  Link of data set used- https://www.kaggle.com/datasets/vinothkannaece/sales-dataset
 ---
 
 ## 🚀 Future Enhancements
