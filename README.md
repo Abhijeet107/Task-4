@@ -96,7 +96,7 @@ This dashboard enables users to:
 
 **Abhijeet Kuanr**  
 📧 abhijeet.kuanr@gmail.com  
-🔗 [# 📊 Interactive Sales Dashboard - Tableau
+🔗 [# 📊 Interactive Sales Dashboard - Tableau - https://public.tableau.com/app/profile/abhijeet.kuanr/viz/InteractiveSalesDashboard_17443552413880/Dashboard1]
 
 Welcome to the **Interactive Sales Dashboard** project!  
 This dashboard was created using **Tableau** to provide business stakeholders with a comprehensive view of sales performance across various dimensions including time, region, product category, and customer behavior.
